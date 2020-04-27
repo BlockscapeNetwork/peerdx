@@ -7,6 +7,10 @@ This tool allows you to run diagnostics for peers of Tendermint nodes by means o
 
 Go 1.13+
 
+## Install
+
+Clone this repo and run `go install` within its root directory.
+
 ## How to Run Diagnostics on Address Books
 
 In order to compare address books, put them into one directory and type:
