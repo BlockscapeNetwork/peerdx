@@ -1,6 +1,11 @@
 # Peerdx, a Peer Diagnostics Tool
 
-This tool allows you to run diagnostics for peers by means of analyzing your nodes' address books or directly connecting to the nodes themselves via RPC. In contrast to just retrieving the information via the /net_info endpoint, this program aims to present the data in a more readable way as well as make it possible to compare multiple nodes with each other in terms of peer diversity.
+
+This tool allows you to run diagnostics for peers of Tendermint nodes by means of analyzing your nodes' address books or directly connecting to the nodes themselves via RPC. In contrast to just retrieving the information via the /net_info endpoint, this program aims to present the data in a more readable way as well as make it possible to compare multiple nodes with each other in terms of peer diversity.
+
+## Requirements
+
+Go 1.13+
 
 ## How to Run Diagnostics on Address Books
 
