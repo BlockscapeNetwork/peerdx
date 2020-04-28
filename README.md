@@ -78,7 +78,7 @@ Additionally, you can take a more detailed look at the node's peers. Just type:
 $ peerdx rpc list <node rpc address>
 ```
 
-The result will lokk something like this:
+The result will look something like this:
 ```
 OUT sebytza05 [d32432f9...]              : IP 164.64.104.66
                                            send active; receive active
